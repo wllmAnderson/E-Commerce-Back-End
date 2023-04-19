@@ -18,5 +18,7 @@ npm start will take you to insomnia
 
 ## video
 
+https://drive.google.com/file/d/1uiiCOvQmy0XRmuoTf6Gz1BPvm2705tbF/view
+
 
 
